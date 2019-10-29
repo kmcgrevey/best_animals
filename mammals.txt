@@ -1,0 +1,4 @@
+elephant
+hyena
+human
+whale
